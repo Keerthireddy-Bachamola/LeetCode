@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1094-car-pooling](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/1094-car-pooling) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1094-car-pooling](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/1094-car-pooling) |
+## Sorting
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/1094-car-pooling) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/1094-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
