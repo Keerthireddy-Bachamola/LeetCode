@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 ## Sliding Window
@@ -26,5 +28,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
