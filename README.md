@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0051-n-queens) |
 | [0209-minimum-size-subarray-sum](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/1094-car-pooling) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
