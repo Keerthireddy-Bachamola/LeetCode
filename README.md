@@ -101,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [1143-longest-common-subsequence](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [1143-longest-common-subsequence](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
