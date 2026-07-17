@@ -95,7 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0518-coin-change-ii) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
