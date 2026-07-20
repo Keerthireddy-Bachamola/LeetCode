@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0547-number-of-provinces) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0547-number-of-provinces) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Dynamic Programming
 |  |
@@ -117,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0044-wildcard-matching) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
