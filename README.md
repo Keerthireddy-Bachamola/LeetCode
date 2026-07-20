@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0547-number-of-provinces) |
@@ -128,6 +130,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0841-keys-and-rooms) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
