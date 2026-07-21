@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0322-coin-change) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0322-coin-change) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0207-course-schedule) |
 | [0851-loud-and-rich](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0851-loud-and-rich) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Keerthireddy-Bachamola/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
